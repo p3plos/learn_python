@@ -1,0 +1,168 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="61a6c1aa-0bb9-4d4c-9f4a-8bd303660393" name="Default Changelist" comment="" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Python Script" />
+      </list>
+    </option>
+  </component>
+  <component name="ProjectId" id="1gz8Tdf3HJYf1MaXo99HPYGXT16" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showExcludedFiles" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="settings.editor.selected.configurable" value="com.jetbrains.python.configuration.PyActiveSdkModuleConfigurable" />
+  </component>
+  <component name="RunManager" selected="Python.test">
+    <configuration name="Дележ яблок-2" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+      <module name="Основы Python" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/Дележ яблок-2.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="Hello, %username!" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+      <module name="Основы Python" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
+      <option name="SCRIPT_NAME" value="A:\dev\MyScripts\Coursera_courses\Основы Python\Hello, %username!.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="test" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+      <module name="Основы Python" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/test.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Python.test" />
+        <item itemvalue="Python.Дележ яблок-2" />
+        <item itemvalue="Python.Hello, %username!" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="61a6c1aa-0bb9-4d4c-9f4a-8bd303660393" name="Default Changelist" comment="" />
+      <created>1599106071243</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1599106071243</updated>
+      <workItem from="1599106076476" duration="862000" />
+      <workItem from="1599116802220" duration="7109000" />
+      <workItem from="1599130384686" duration="470000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="1" />
+  </component>
+  <component name="WindowStateProjectService">
+    <state width="1548" height="221" key="GridCell.Tab.0.bottom" timestamp="1599130855164">
+      <screen x="-1600" y="123" width="1600" height="872" />
+    </state>
+    <state width="1548" height="221" key="GridCell.Tab.0.bottom/0.0.1920.1080/-1600.123.1600.872@-1600.123.1600.872" timestamp="1599130855164" />
+    <state width="1548" height="221" key="GridCell.Tab.0.center" timestamp="1599130855164">
+      <screen x="-1600" y="123" width="1600" height="872" />
+    </state>
+    <state width="1548" height="221" key="GridCell.Tab.0.center/0.0.1920.1080/-1600.123.1600.872@-1600.123.1600.872" timestamp="1599130855164" />
+    <state width="1548" height="221" key="GridCell.Tab.0.left" timestamp="1599130855164">
+      <screen x="-1600" y="123" width="1600" height="872" />
+    </state>
+    <state width="1548" height="221" key="GridCell.Tab.0.left/0.0.1920.1080/-1600.123.1600.872@-1600.123.1600.872" timestamp="1599130855164" />
+    <state width="1548" height="221" key="GridCell.Tab.0.right" timestamp="1599130855164">
+      <screen x="-1600" y="123" width="1600" height="872" />
+    </state>
+    <state width="1548" height="221" key="GridCell.Tab.0.right/0.0.1920.1080/-1600.123.1600.872@-1600.123.1600.872" timestamp="1599130855164" />
+    <state width="1548" height="274" key="GridCell.Tab.1.bottom" timestamp="1599123995472">
+      <screen x="-1600" y="123" width="1600" height="872" />
+    </state>
+    <state width="1548" height="274" key="GridCell.Tab.1.bottom/0.0.1920.1080/-1600.123.1600.872@-1600.123.1600.872" timestamp="1599123995472" />
+    <state width="1548" height="274" key="GridCell.Tab.1.center" timestamp="1599123995472">
+      <screen x="-1600" y="123" width="1600" height="872" />
+    </state>
+    <state width="1548" height="274" key="GridCell.Tab.1.center/0.0.1920.1080/-1600.123.1600.872@-1600.123.1600.872" timestamp="1599123995472" />
+    <state width="1548" height="274" key="GridCell.Tab.1.left" timestamp="1599123995472">
+      <screen x="-1600" y="123" width="1600" height="872" />
+    </state>
+    <state width="1548" height="274" key="GridCell.Tab.1.left/0.0.1920.1080/-1600.123.1600.872@-1600.123.1600.872" timestamp="1599123995472" />
+    <state width="1548" height="274" key="GridCell.Tab.1.right" timestamp="1599123995472">
+      <screen x="-1600" y="123" width="1600" height="872" />
+    </state>
+    <state width="1548" height="274" key="GridCell.Tab.1.right/0.0.1920.1080/-1600.123.1600.872@-1600.123.1600.872" timestamp="1599123995472" />
+    <state x="-1280" y="195" key="SettingsEditor" timestamp="1599106348614">
+      <screen x="-1600" y="123" width="1600" height="872" />
+    </state>
+    <state x="-1280" y="195" key="SettingsEditor/0.0.1920.1080/-1600.123.1600.872@-1600.123.1600.872" timestamp="1599106348614" />
+    <state x="-1086" y="388" key="com.intellij.ide.util.TipDialog" timestamp="1599130388486">
+      <screen x="-1600" y="123" width="1600" height="872" />
+    </state>
+    <state x="-1086" y="388" key="com.intellij.ide.util.TipDialog/0.0.1920.1080/-1600.123.1600.872@-1600.123.1600.872" timestamp="1599130388486" />
+  </component>
+  <component name="com.intellij.coverage.CoverageDataManagerImpl">
+    <SUITE FILE_PATH="coverage/_Python$test.coverage" NAME="test Coverage Results" MODIFIED="1599130739512" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/_Python$__2.coverage" NAME="Дележ яблок-2 Coverage Results" MODIFIED="1599122097676" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+  </component>
+</project>
