@@ -1,3 +1,8 @@
-A = int(input())
-B = int(input())
-print('YES'*(1-(A % B))+'NO'*((((A % B)+2)//((A % B)+1)) % 2))
+a = int(input())
+b = int(input())
+c = int(input())
+d = int(input())
+if a == c - 1 and b == d - 1:
+    print('YES')
+else:
+    print('NO')
