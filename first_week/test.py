@@ -1,8 +1,8 @@
-a = int(input())
-b = int(input())
-c = int(input())
-d = int(input())
-if a == c - 1 and b == d - 1:
+n = int(input())
+m = int(input())
+k = int(input())
+
+if k < n * m and ((k % n == 0) or (k % m == 0)):
     print('YES')
 else:
     print('NO')
