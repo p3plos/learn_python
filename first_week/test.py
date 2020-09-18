@@ -1,8 +1,7 @@
-n = int(input())
-m = int(input())
-k = int(input())
-
-if k < n * m and ((k % n == 0) or (k % m == 0)):
-    print('YES')
-else:
-    print('NO')
+i = int(input())
+max = i
+while i != 0:
+    i = int(input())
+    if i > max and i != 0:
+        max = i
+print(max)
